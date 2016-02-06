@@ -11,8 +11,8 @@ The overall project structure is shown here:
     Business-level tasks
 + action
     UI interactions
-+ pages
-    Page Objects and Page Elements
++ user_interface
+    Groupings of cohesive screen elements (as if they are widgets)
 + questions
     Objects used to query the application
 ````
